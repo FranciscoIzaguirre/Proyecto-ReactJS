@@ -11,9 +11,9 @@
   }
 
   .buttons{
-    background-color: #555;
+    background-color: black;
     color: white;
-    padding: 8px 16px;
+    padding: 17px;
     border: none;
     border-radius: 5px;
     cursor: pointer;

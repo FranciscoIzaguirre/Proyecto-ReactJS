@@ -1,0 +1,8 @@
+.item_count{
+   background-color: #333;
+   padding: 10px;
+}
+
+.item_count .Button{
+    background-color: black;
+}
