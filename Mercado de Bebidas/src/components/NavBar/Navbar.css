@@ -7,14 +7,22 @@
   width: 100%;
   position: fixed;
   top: 0;
-  
   }
+
 
   .buttons{
     background-color: black;
-    color: white;
+    color: black;
     padding: 17px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+  }
+  
+  .categories{
+  padding: 15px;
+  }
+
+  .title{
+    color: black;
   }
